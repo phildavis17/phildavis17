@@ -11,6 +11,7 @@ Hello! I'm a self taught devleoper looking to build cool projects and get better
 - **3D Modeling and visualization** I've been doing it for over a decade. 
 
 ## Projects
+Here are some of the interesting ones
 - **[New Bird City](https://github.com/phildavis17/New_Bird_City)**  A tool to help birdwatchers plan and prepare for trips.
 - **[weatherpls](https://github.com/phildavis17/weatherpls)** A no frills CLI tool for getting weather forcasts.
 - **[Writer](https://github.com/phildavis17/Writer)** A deliberately simple writing tool. Focus on the important part (writing) not the other stuff.
