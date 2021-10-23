@@ -8,7 +8,7 @@ Hello! I'm a self taught devleoper looking to build cool projects and get better
 ## Interests
 - **Python**  My primary coding language
 - **Birdwatching**  If you are also working on a project involving eBird, I'd love to hear about it.
-- **3D Modeling and visualization** I've been doing it for over a decade. 
+- **3D Modeling and visualization** I've been doing it for over a decade.
 
 ## Projects
 Here are some of the interesting ones
