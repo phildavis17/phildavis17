@@ -15,4 +15,4 @@ Here are some of the interesting ones
 - **Python**  My primary coding language.
 - **Birdwatching**  If you are also working on a project involving eBird, I'd love to hear about it. Also [here](http://brooklynbirdclub.org/ClapperRail/Clapper_Rail_Summer_2018.pdf) is an article I got published about it. (The Sparks! column, on page 17)
 - **Woodworking** I've been building furniture since 2014
-- **Rendering and 3D Printing** I've been doing it for over a decade. [Here](https://www.youtube.com/watch?v=ekt-1YH4CDs&t=465s) is a talk I gave about it. (My portion beins at about 4:50)
+- **Rendering and 3D Printing** I've been doing it for over a decade. [Here](https://www.youtube.com/watch?v=ekt-1YH4CDs&t=465s) is a talk I gave about it. (My portion begins at about 4:50)
