@@ -5,6 +5,7 @@ Hello! I'm a self taught devleoper looking to build cool projects and get better
 
 ## Projects
 Here are some of the interesting ones
+- **[Wordleologist](https://github.com/phildavis17/wordleologist)** An interactive CLI tool to offer gentle Wordle hints.
 - **[json_memoize](https://github.com/phildavis17/json_memoize)** A tool for light-duty persistent memoization.
 - **[New Bird City](https://github.com/phildavis17/New_Bird_City)**  A tool I'm developing to help birdwatchers plan and prepare for trips.
 - **[weatherpls](https://github.com/phildavis17/weatherpls)** A no frills CLI tool for getting weather forcasts.
