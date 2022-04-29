@@ -1,6 +1,6 @@
 # Phil Davis
 
-Hello! I'm a self taught devleoper looking to build cool projects and get better at coding. Luckily there's a lot of synergy in those two goals.
+Hello! I'm a self taught Python devleoper, with a particular interest in backend tools, data, and developer experience. 
 
 
 ## Projects
