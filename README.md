@@ -1,6 +1,6 @@
 # Phil Davis
 
-Hello! I'm a self taught Python devleoper, with a particular interest in backend tools, data, and developer experience. I also have a background in 3D modeling and GIS.
+Hello! I'm a self taught Python devleoper, with a particular interest in backend tools, data, and developer experience. I also have a background in 3D modeling and GIS. If you've got an open source project you think I can help with, get in touch!
 
 
 ## Projects
